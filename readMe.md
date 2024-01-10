@@ -1,7 +1,15 @@
-This repo has a simple bash(zsh) script that will automatically open any numbers of webpages
+# Webpage Opener Script
 
-to add new webpage urls, simply add the url in the array webPages, separted by space.
+This repository contains a simple Bash/Zsh script designed to automatically open a number of webpages in the default web browser.
 
-to use the script, simply double click the script. 
+## Adding New URLs
 
-This script works for Macs only.
+To add new URLs, simply insert the URLs into the `webPages` array, separated by spaces.
+
+## Usage
+
+To use the script, double-click the script file.
+
+## Compatibility
+
+Please note: This script is compatible with macOS only.

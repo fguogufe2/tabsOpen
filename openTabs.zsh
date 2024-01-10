@@ -8,7 +8,6 @@ webPages=(
     
 )
 
-
 #  open all pages in safari:
 
 for i in $webPages; do
