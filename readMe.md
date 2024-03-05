@@ -7,6 +7,9 @@ This repository contains a simple and short Bash/Zsh script template designed to
 
 The script file is `openTabs.command`
 
+Before running the script for the first time, you might need to run
+`chmod +x openTabs.command` in the terminal to add execution previliege to the script.
+
 To add new URLs, simply insert the URLs into the `webPages` array, separated by spaces.
 
 ## Usage
